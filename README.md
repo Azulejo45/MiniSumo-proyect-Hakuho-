@@ -1,23 +1,37 @@
-# MiniSumo-Project-Hakuho
+### ┍━━━━━━━━━━━━»•» 🌺 «•«━━━━┑
+#   ┕MiniSumo-Project-Hakuho┙        
+
+### - Proyecto de mini sumo con la capacidad de ser controlado de manera bluetooth y automata. Equipado con 4 sensores:  2 laterales, 1 frontal y uno en la parte inferior, el de piso.
+\
+\
+\
+\
+\
+\
+\
+♥
 
 
-- Proyecto de mini sumo con la capacidad de ser controlado de manera bluetooth y automota. Equipado con 4 sensores:  2 laterales, 1 frontal
-y uno en la parte inferior, el de piso.
 
-
-### Autores
+## ..••°°━✦❘༻⋞ 〈 Autores  〉 ⋟༺❘✦━━°°••..
 
 - ⋆ˊˎ-   ┌──༺♥༻❀**Velazquez Joaquim**❀༺♥༻──┐
+  
 - ⋆ˊˎ-  ↻ ◁ I**Perez Sebastían**I ▷ ↺3:11 ───ㅇ──── 5:25
-- ⋆ˊˎ-   》＊*•̩̩͙✩•̩̩͙*˚**Demian Ramirez**˚*•̩̩͙✩•̩̩͙*˚《
+
+- ⋆ˊˎ-   》＊•̩̩͙✩•̩̩͙*˚**Demian Ramirez**˚*•̩̩͙✩•̩̩͙*˚《
+
 - ⋆ˊˎ-   ☙.·:*¨ ¨*:·.**Uriel Ramirez**.·:*¨ ¨*:·. ❧
+
 - ⋆ˊˎ- ♪♫.ılılıll|̲̅̅💿̅**Robledo Tomás**|̲̅̅💿̲̅̅|llılılı.♫♪
 
-*---02/10/2025---*
+### *---02/10/2025---*
 \
 \
-  
-
+\
+\
+\
+♥
 ## •*¨*•.¸¸☆*･ﾟ Especificaciones generales ﾟ･*☆¸¸.•*¨*•
 
 ˚₊· ͟͟͞͞➳❥ Diametro: 10 cm x 10 cm x 4,5 cm.
@@ -30,22 +44,24 @@ y uno en la parte inferior, el de piso.
 
 ˚₊· ͟͟͞͞➳❥ Peso (aproximado): 250g.
 ## ✭∞∞∞∞∞∞∞∞✭∞∞•,¸,.·' ✩ '·.,¸,•∞∞✭∞∞∞∞∞∞∞∞✭
-
-
-
+\
+\
+\
+\
+\
+♥
 ### ✎  (❁ᴗ͈ˬᴗ͈) ༉‧ ♡*.✧
- ## Objetivo del proyecto
+## Objetivo del proyecto
 ### ✩°｡𓂃𓏧︶︶︶︶︶︶︶︶┈୨•♡•୧┈︶︶︶︶︶︶︶𓂃𓏧｡°✩
-El objetivo principal de este proyecto es poner a prueba lo aprendido en el transcurso del ciclo educativo y poder aplicarlo en el ensamblaje y preparacion de un robot modelo Mini-Sumo para que se encuentre en condiciones en poder participar en una competencia.
-El Mini-sumo está implementado con sendores los cuales lo ayudaran en la deteccion de obstaculos y/o de un Mini-sumo enemigo, utilizando su rampa para contraatacar hasta expulsarlo de la zona de combate.
+_El objetivo principal de este proyecto es poner a prueba lo aprendido en el transcurso del ciclo educativo y poder aplicarlo en el ensamblaje y preparacion de un robot modelo Mini-Sumo para que se encuentre en condiciones en poder participar en una competencia.
+El Mini-sumo está implementado con sendores los cuales lo ayudaran en la deteccion de obstaculos y/o de un Mini-sumo enemigo, utilizando su rampa para contraatacar hasta expulsarlo de la zona de combate._
 ### ✩°｡𓂃𓏧⌒⌒⌒⌒⌒⌒⌒⌒┈୨•♡•୧┈⌒⌒⌒⌒⌒⌒⌒⌒𓂃𓏧｡°✩
-
-
 \
 \
-
-
-
+\
+\
+\
+♥
 ### ∘₊✧───∘₊✧───•-•⟮ ◆ ⟯•-•───✧₊∘───✧₊∘
 ## ˗ˏˋ ꒰ **Este proyecto fue realizado con algunos componentes en donde se puede llegan a encontrar:** ꒱ ˎˊ˗
 
@@ -78,25 +94,31 @@ El Mini-sumo está implementado con sendores los cuales lo ayudaran en la detecc
  > Voltaje de operacion: 2.7V-10.8V.\
  > Corriente máxima de salida: 1,5A.
  ### ∘₊✧───∘₊✧──────✧₊∘───✧₊∘
-
-
 \
 \
-
-###˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚
- 
-## ╔═✬✩══╡˚✧Componentes utilizados✧˚╞══✩✬══╗
-
-- ˋ°•*⁀.¸➸ Esp32 S3 super mini.
-- ˋ°•*⁀.¸➸ Bateria de Lipo.
-- ˋ°•*⁀.¸➸ TCRT5000.
-- ˋ°•*⁀.¸➸ AD-32.
-- ˋ°•*⁀.¸➸ Micro motores Pololu 250RPM.
-- ˋ°•*⁀.¸➸ DRV8833.
-
-## ╚═══*+:｡.｡:+*═══✮❁•°❀°•❁✮═══*+:｡.｡:+*═══╝
-
 \
 \
-
+\
+♥
+## ╔══✬✩══╡˚✧Componentes utilizados✧˚╞══✩✬══╗
+- ˋ°•*⁀.¸➸ *Esp32 S3 super mini.*
+- ˋ°•*⁀.¸➸ *Bateria de Lipo.*
+- ˋ°•*⁀.¸➸ *TCRT5000.*
+- ˋ°•*⁀.¸➸ *AD-32.*
+- ˋ°•*⁀.¸➸ *Micro motores Pololu 250RPM.*
+- ˋ°•*⁀.¸➸ *DRV8833.*
+## ╚═══*+:｡ . ｡:+*═══✮❁•°❀°•❁✮═══*+:｡ . ｡:+*═══╝
+\
+\
+\
+\
+\
+♥
 # - Pasos a seguir para armar la placa
+### ˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚
+ \
+ \
+ \
+ \
+ \
+ ♥
