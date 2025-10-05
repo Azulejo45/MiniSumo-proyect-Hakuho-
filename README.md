@@ -7,49 +7,47 @@ y uno en la parte inferior, el de piso.
 
 ### Autores
 
-- Velazquez Joaquim.
-- Perez Sebastían.
-- Demian Ramirez.
-- Uriel Ramirez.
-- Robledo Tomás.
+- ⋆ˊˎ-   ┌──༺♥༻❀**Velazquez Joaquim**❀༺♥༻──┐
+- ⋆ˊˎ-  ↻ ◁ I**Perez Sebastían**I ▷ ↺3:11 ───ㅇ──── 5:25
+- ⋆ˊˎ-   》＊*•̩̩͙✩•̩̩͙*˚**Demian Ramirez**˚*•̩̩͙✩•̩̩͙*˚《
+- ⋆ˊˎ-   ☙.·:*¨ ¨*:·.**Uriel Ramirez**.·:*¨ ¨*:·. ❧
+- ⋆ˊˎ- ♪♫.ılılıll|̲̅̅💿̅**Robledo Tomás**|̲̅̅💿̲̅̅|llılılı.♫♪
 
 *---02/10/2025---*
-
+\
+\
   
 
-## Especificaciones
+## •*¨*•.¸¸☆*･ﾟ Especificaciones generales ﾟ･*☆¸¸.•*¨*•
 
-> Diametro: 10 cm x 10 cm x 4,5 cm.
+˚₊· ͟͟͞͞➳❥ Diametro: 10 cm x 10 cm x 4,5 cm.
 
-> Consumo total: 7,4V.
+˚₊· ͟͟͞͞➳❥ Consumo total: 7,4V.
 
-> Corriente total: 800mA.
+˚₊· ͟͟͞͞➳❥ Corriente total: 800mA.
 
-> Material: PLA.
+˚₊· ͟͟͞͞➳❥ Material: PLA.
 
-> Peso (aproximado): 450g.
-
+˚₊· ͟͟͞͞➳❥ Peso (aproximado): 250g.
+## ✭∞∞∞∞∞∞∞∞✭∞∞•,¸,.·' ✩ '·.,¸,•∞∞✭∞∞∞∞∞∞∞∞✭
 
 
 
 ### ✎  (❁ᴗ͈ˬᴗ͈) ༉‧ ♡*.✧
  ## Objetivo del proyecto
-### ✩°｡𓂃𓏧︶︶︶︶︶︶︶︶┈୨♡•୧┈︶︶︶︶︶︶︶𓂃𓏧｡°✩
+### ✩°｡𓂃𓏧︶︶︶︶︶︶︶︶┈୨•♡•୧┈︶︶︶︶︶︶︶𓂃𓏧｡°✩
 El objetivo principal de este proyecto es poner a prueba lo aprendido en el transcurso del ciclo educativo y poder aplicarlo en el ensamblaje y preparacion de un robot modelo Mini-Sumo para que se encuentre en condiciones en poder participar en una competencia.
 El Mini-sumo está implementado con sendores los cuales lo ayudaran en la deteccion de obstaculos y/o de un Mini-sumo enemigo, utilizando su rampa para contraatacar hasta expulsarlo de la zona de combate.
-### ✩°｡𓂃𓏧⌒⌒⌒⌒⌒⌒⌒⌒┈୨♡•୧┈⌒⌒⌒⌒⌒⌒⌒⌒𓂃𓏧｡°✩
+### ✩°｡𓂃𓏧⌒⌒⌒⌒⌒⌒⌒⌒┈୨•♡•୧┈⌒⌒⌒⌒⌒⌒⌒⌒𓂃𓏧｡°✩
+
+
+\
+\
 
 
 
-
-
-
-
-
-
-
-**Este proyecto fue realizado con algunos componentes en donde se puede llegan a encontrar:**
-
+### ∘₊✧───∘₊✧───•-•⟮ ◆ ⟯•-•───✧₊∘───✧₊∘
+## ˗ˏˋ ꒰ **Este proyecto fue realizado con algunos componentes en donde se puede llegan a encontrar:** ꒱ ˎˊ˗
 
 - Micro: Esp32 S3 super mini.
  > Memoria: 512 KB SRAM, 4 MB Flash.Conectividad: Wi-Fi 802.11 b/g/n (2,4 GHz).\
@@ -79,18 +77,26 @@ El Mini-sumo está implementado con sendores los cuales lo ayudaran en la detecc
  > Dimensiones: 4 mm × 18,1 mm × 21,1 mm.\
  > Voltaje de operacion: 2.7V-10.8V.\
  > Corriente máxima de salida: 1,5A.
+ ### ∘₊✧───∘₊✧──────✧₊∘───✧₊∘
+
+
+\
+\
+
+###˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚
  
+## ╔═✬✩══╡˚✧Componentes utilizados✧˚╞══✩✬══╗
 
+- ˋ°•*⁀.¸➸ Esp32 S3 super mini.
+- ˋ°•*⁀.¸➸ Bateria de Lipo.
+- ˋ°•*⁀.¸➸ TCRT5000.
+- ˋ°•*⁀.¸➸ AD-32.
+- ˋ°•*⁀.¸➸ Micro motores Pololu 250RPM.
+- ˋ°•*⁀.¸➸ DRV8833.
 
-## Componentes utilizados
+## ╚═══*+:｡.｡:+*═══✮❁•°❀°•❁✮═══*+:｡.｡:+*═══╝
 
-- Esp32 S3 super mini.
-- Bateria de Lipo.
-- TCRT5000.
-- AD-32.
-- Micro motores Pololu 250RPM.
-- DRV8833.
-
-
+\
+\
 
 # - Pasos a seguir para armar la placa
