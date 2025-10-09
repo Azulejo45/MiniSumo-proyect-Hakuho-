@@ -112,11 +112,11 @@ El Mini-sumo está implementado con sendores los cuales lo ayudaran en la detecc
 \ Cuando uno de los sensores en los costados detecta algo cerca, se posiciona para estar de frente ante lo detectado.
 \
 ♥
-# - Pasos a seguir para armar la placa
+# Pasos a seguir para armar la placa
 ### ˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚
  
- > 1. Conseguir una placa de cobre de 7,3cm x 3,5cm.
- > 2. Usar una virulana para lijar la superficie de cobre.
+ - 1. Conseguir una placa de cobre de 7,3cm x 3,5cm.
+ - 2. Usar una virulana para lijar la superficie de cobre.
  > 3. Posicionar la impresion del diseño de la placa por encima del lado de cobre(La tinta contra el cobre). Usando una plancha de ropa caliente, aplica una suave presion sobre el papel. 
  > 5. Cuando la tinta se haya pasado completamente al cobre,qutia el papel de la placa; sumerge la placa en percloruro.
  > 6. Espera un tiempo, revisando la placa periodicamente.
