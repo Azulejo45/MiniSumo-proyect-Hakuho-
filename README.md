@@ -87,11 +87,7 @@ El Mini-sumo está implementado con sendores los cuales lo ayudaran en la detecc
  > Voltaje de operacion: 2.7V-10.8V.\
  > Corriente máxima de salida: 1,5A.
  ### ∘₊✧───∘₊✧──────✧₊∘───✧₊∘
-\
-\
-\
-\
-\
+
 ♥
 ## ╔══✬✩══╡˚✧Componentes utilizados✧˚╞══✩✬══╗
 - ˋ°•*⁀.¸➸ *Esp32 S3 super mini.*
@@ -101,11 +97,7 @@ El Mini-sumo está implementado con sendores los cuales lo ayudaran en la detecc
 - ˋ°•*⁀.¸➸ *Micro motores Pololu 250RPM.*
 - ˋ°•*⁀.¸➸ *DRV8833.*
 ## ╚═══*+:｡ . ｡:+*═══✮❁•°❀°•❁✮═══*+:｡ . ｡:+*═══╝
-\
-\
-\
-\
-\
+
 ♥
 # Diseño del circuito
 
@@ -122,12 +114,12 @@ El Mini-sumo está implementado con sendores los cuales lo ayudaran en la detecc
 ♥
 # - Pasos a seguir para armar la placa
 ### ˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚
- \
- \ 1. Conseguir una placa de cobre de 7,3cm x 3,5cm 
- \ 2. Usar una virulana para lijar la superficie de cobre
- \ 3. Posicionar la impresion del diseño de la placa por encima del lado de cobre(La tinta contra el cobre). Usando una plancha de ropa caliente, aplica una suave presion sobre el papel. 
- \5. Cuando la tinta se haya pasado completamente al cobre,qutia el papel de la placa; sumerge la placa en percloruro.
- \6. Espera un tiempo, revisando la placa periodicamente.
- \7. Cuando todo el cobre se haya removido de la placa, sacala del percloruro y limpiala con agua.
- \8. Quita el cobre residual con una virulana, hasta que solo quede el diseño en la placa.
+ 
+ > 1. Conseguir una placa de cobre de 7,3cm x 3,5cm.
+ > 2. Usar una virulana para lijar la superficie de cobre.
+ > 3. Posicionar la impresion del diseño de la placa por encima del lado de cobre(La tinta contra el cobre). Usando una plancha de ropa caliente, aplica una suave presion sobre el papel. 
+ > 5. Cuando la tinta se haya pasado completamente al cobre,qutia el papel de la placa; sumerge la placa en percloruro.
+ > 6. Espera un tiempo, revisando la placa periodicamente.
+ > 7. Cuando todo el cobre se haya removido de la placa, sacala del percloruro y limpiala con agua.
+ > 8. Quita el cobre residual con una virulana, hasta que solo quede el diseño en la placa.
  ♥
