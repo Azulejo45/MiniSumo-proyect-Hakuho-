@@ -114,6 +114,17 @@ El Mini-sumo está implementado con sendores los cuales lo ayudaran en la detecc
 \
 \
 ♥
+<img width="992" height="499" alt="PCB MiniSumo" src="https://github.com/user-attachments/assets/d05d39aa-56d9-4e52-94f0-516afe11246c" />
+
+<img width="524" height="396" alt="Esquematico MiniSumo" src="https://github.com/user-attachments/assets/cb604efe-be96-4265-a081-07a26a25060c" />
+
+
+\
+\
+\
+\
+\
+♥
 # - Pasos a seguir para armar la placa
 ### ˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚
  \
