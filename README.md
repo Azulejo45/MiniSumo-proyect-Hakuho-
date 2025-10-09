@@ -89,7 +89,7 @@ El Mini-sumo está implementado con sendores los cuales lo ayudaran en la detecc
 
 <img width="992" height="499" alt="PCB MiniSumo" src="https://github.com/user-attachments/assets/d05d39aa-56d9-4e52-94f0-516afe11246c" />
 
-<img width="922" height="499" alt="Esquematico MiniSumo" src="https://github.com/user-attachments/assets/cb604efe-be96-4265-a081-07a26a25060c" />
+
 
 ### Descripcion del funcionamiento
 
@@ -97,6 +97,11 @@ El minisumo utiliza sus varios sensores para guiarse,con dos ubicados en los cos
 Cuando uno de los sensores en los costados detecta algo cerca, se posiciona para estar de frente ante lo detectado.
 
 ♥
+<img width="922" height="499" alt="Esquematico MiniSumo" src="https://github.com/user-attachments/assets/cb604efe-be96-4265-a081-07a26a25060c" />
+
+
+
+
 ## Pasos a seguir para armar la placa
 ### ˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚
 
@@ -107,5 +112,5 @@ Cuando uno de los sensores en los costados detecta algo cerca, se posiciona para
 3. Capacitores
 4. Regulador
 5. Pineras
-6. 6Borneras\
+6. Borneras\
  ♥
