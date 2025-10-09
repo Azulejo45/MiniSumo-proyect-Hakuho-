@@ -4,8 +4,6 @@
 ### - Proyecto de mini sumo con la capacidad de ser controlado de manera bluetooth y automata. Equipado con 4 sensores:  2 laterales, 1 frontal y uno en la parte inferior, el de piso.
 ♥
 
-
-
 ## ..••°°━✦❘༻⋞ 〈 Autores  〉 ⋟༺❘✦━━°°••..
 
 - ⋆ˊˎ-   ┌──༺♥༻❀**Velazquez Joaquim**❀༺♥༻──┐
@@ -19,11 +17,7 @@
 - ⋆ˊˎ- ♪♫.ılılıll|̲̅̅💿̅**Robledo Tomás**|̲̅̅💿̲̅̅|llılılı.♫♪
 
 ### *---02/10/2025---*
-\
-\
-\
-\
-\
+
 ♥
 ## •*¨*•.¸¸☆*･ﾟ Especificaciones generales ﾟ･*☆¸¸.•*¨*•
 
@@ -37,11 +31,7 @@
 
 ˚₊· ͟͟͞͞➳❥ Peso (aproximado): 250g.
 ## ✭∞∞∞∞∞∞∞∞✭∞∞•,¸,.·' ✩ '·.,¸,•∞∞✭∞∞∞∞∞∞∞∞✭
-\
-\
-\
-\
-\
+
 ♥
 ### ✎  (❁ᴗ͈ˬᴗ͈) ༉‧ ♡*.✧
 ## Objetivo del proyecto
@@ -49,11 +39,7 @@
 _El objetivo principal de este proyecto es poner a prueba lo aprendido en el transcurso del ciclo educativo y poder aplicarlo en el ensamblaje y preparacion de un robot modelo Mini-Sumo para que se encuentre en condiciones en poder participar en una competencia.
 El Mini-sumo está implementado con sendores los cuales lo ayudaran en la deteccion de obstaculos y/o de un Mini-sumo enemigo, utilizando su rampa para contraatacar hasta expulsarlo de la zona de combate._
 ### ✩°｡𓂃𓏧⌒⌒⌒⌒⌒⌒⌒⌒┈୨•♡•୧┈⌒⌒⌒⌒⌒⌒⌒⌒𓂃𓏧｡°✩
-\
-\
-\
-\
-\
+
 ♥
 ### ∘₊✧───∘₊✧───•-•⟮ ◆ ⟯•-•───✧₊∘───✧₊∘
 ## ˗ˏˋ ꒰ **Este proyecto fue realizado con algunos componentes en donde se puede llegan a encontrar:** ꒱ ˎˊ˗
@@ -104,22 +90,22 @@ El Mini-sumo está implementado con sendores los cuales lo ayudaran en la detecc
 <img width="992" height="499" alt="PCB MiniSumo" src="https://github.com/user-attachments/assets/d05d39aa-56d9-4e52-94f0-516afe11246c" />
 
 <img width="922" height="499" alt="Esquematico MiniSumo" src="https://github.com/user-attachments/assets/cb604efe-be96-4265-a081-07a26a25060c" />
-# Descripcion del funcionamiento
 
-\ El minisumo utiliza sus varios sensores para guiarse,con dos ubicados en los costados; otro en la parte frontal.
-\ Cuando un objeto entra en el rango del sensor frontal, el minisumo avanza hasta chocar contra dicho objeto. 
-\ Esto siempre se cumple hasta que se quite la orden.
-\ Cuando uno de los sensores en los costados detecta algo cerca, se posiciona para estar de frente ante lo detectado.
-\
+### Descripcion del funcionamiento
+
+El minisumo utiliza sus varios sensores para guiarse,con dos ubicados en los costados; otro en la parte frontal. Cuando un objeto entra en el rango del sensor frontal, el minisumo avanza hasta chocar contra dicho objeto. Esto siempre se cumple hasta que se quite la orden.\
+Cuando uno de los sensores en los costados detecta algo cerca, se posiciona para estar de frente ante lo detectado.
+
 ♥
-# Pasos a seguir para armar la placa
+## Pasos a seguir para armar la placa
 ### ˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚
- 
- - 1 Conseguir una placa de cobre de 7,3cm x 3,5cm.
- - 2 Usar una virulana para lijar la superficie de cobre.
- > 3. Posicionar la impresion del diseño de la placa por encima del lado de cobre(La tinta contra el cobre). Usando una plancha de ropa caliente, aplica una suave presion sobre el papel. 
- > 5. Cuando la tinta se haya pasado completamente al cobre,qutia el papel de la placa; sumerge la placa en percloruro.
- > 6. Espera un tiempo, revisando la placa periodicamente.
- > 7. Cuando todo el cobre se haya removido de la placa, sacala del percloruro y limpiala con agua.
- > 8. Quita el cobre residual con una virulana, hasta que solo quede el diseño en la placa.
+
+ Soldar los componentes los en el siguiente orden:
+
+1. Boton
+2. Swtich
+3. Capacitores
+4. Regulador
+5. Pineras
+6. 6Borneras\
  ♥
