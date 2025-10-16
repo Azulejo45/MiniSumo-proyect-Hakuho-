@@ -80,7 +80,11 @@ El Mini-sumo está implementado con sendores los cuales lo ayudaran en la detecc
 - ˋ°•*⁀.¸➸ *Micro motores Pololu 250RPM.*
 - ˋ°•*⁀.¸➸ *DRV8833.*
 ## ╚═══*+:｡ . ｡:+*═══✮❁•°❀°•❁✮═══*+:｡ . ｡:+*═══╝
-
+/
+/
+/
+/
+/
 ♥
 # Diseño del circuito
 
@@ -88,10 +92,10 @@ El Mini-sumo está implementado con sendores los cuales lo ayudaran en la detecc
 
 
 
-### Descripcion del funcionamiento
+## Descripcion del funcionamiento
 
-El minisumo utiliza sus varios sensores para guiarse,con dos ubicados en los costados; otro en la parte frontal. Cuando un objeto entra en el rango del sensor frontal, el minisumo avanza hasta chocar contra dicho objeto. Esto siempre se cumple hasta que se quite la orden.\
-Cuando uno de los sensores en los costados detecta algo cerca, se posiciona para estar de frente ante lo detectado.
+El minisumo utiliza sus varios sensores para guiarse, con dos ubicados en los costados; otro en la parte frontal. Cuando un objeto entra en el rango del sensor frontal, el minisumo avanza hasta chocar contra dicho objeto. Esto siempre se cumple hasta que se quite la orden.\
+Cuando uno de los sensores en los costados detecta algo cerca, se posiciona para estar de frente ante lo detectado, retrocediendo y girando al lado contrario al donde se detecto 
 
 ♥
 <img width="925" height="500" alt="Esquematico MiniSumo" src="https://github.com/user-attachments/assets/cb604efe-be96-4265-a081-07a26a25060c" />
