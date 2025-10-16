@@ -12,9 +12,6 @@
 
 - ⋆ˊˎ-   》＊•̩̩͙✩•̩̩͙*˚**Demian Ramirez**˚*•̩̩͙✩•̩̩͙*˚《
 
-- ⋆ˊˎ-   ☙.·:*¨ ¨*:·.**Uriel Ramirez**.·:*¨ ¨*:·. ❧
-
-- ⋆ˊˎ- ♪♫.ılılıll|̲̅̅💿̅**Robledo Tomás**|̲̅̅💿̲̅̅|llılılı.♫♪
 
 ### *---02/10/2025---*
 
@@ -97,9 +94,11 @@ El minisumo utiliza sus varios sensores para guiarse,con dos ubicados en los cos
 Cuando uno de los sensores en los costados detecta algo cerca, se posiciona para estar de frente ante lo detectado.
 
 ♥
-<img width="922" height="499" alt="Esquematico MiniSumo" src="https://github.com/user-attachments/assets/cb604efe-be96-4265-a081-07a26a25060c" />
+<img width="925" height="500" alt="Esquematico MiniSumo" src="https://github.com/user-attachments/assets/cb604efe-be96-4265-a081-07a26a25060c" />
 
-
+## Layout de PCB
+<img width="940" height="453" alt="image" src="https://github.com/user-attachments/assets/96e15458-9e49-4ddf-b79a-13dbe9477525" />
+<img width="940" height="453" alt="image" src="https://github.com/user-attachments/assets/dbbce946-25d7-4192-b610-0b6cb97834d2" />
 
 
 ## Pasos a seguir para armar la placa
