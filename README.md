@@ -88,7 +88,7 @@ El Mini-sumo está implementado con sendores los cuales lo ayudaran en la detecc
 ♥
 # Diseño del circuito
 
-<img width="992" height="499" alt="PCB MiniSumo" src="https://github.com/user-attachments/assets/d05d39aa-56d9-4e52-94f0-516afe11246c" />
+<img width="1000" height="500" alt="PCB MiniSumo" src="https://github.com/user-attachments/assets/d05d39aa-56d9-4e52-94f0-516afe11246c" />
 
 
 
@@ -105,15 +105,26 @@ Cuando uno de los sensores en los costados detecta algo cerca, se posiciona para
 <img width="940" height="453" alt="image" src="https://github.com/user-attachments/assets/dbbce946-25d7-4192-b610-0b6cb97834d2" />
 
 
-## Pasos a seguir para armar la placa
-### ˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚
+# Pasos a seguir para armar el mini-sumo
+## ˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚
 
- Soldar los componentes los en el siguiente orden:
+ ###-|Soldar los componentes en la placa ya hecha en el siguiente orden:
 
 1. Boton
 2. Swtich
 3. Capacitores
 4. Regulador
 5. Pineras
-6. Borneras\
+6. Borneras
+7. Puentes\
+
+###-|Carroseria
+
+1. Descargar el modelo 3D de la carroseria.
+2. Descargar un modelo 3D de dos braquets.
+3. Imprimir ambos archivos.
+4. Comprar cuatro tornillos para tuerca M3 (con sus respectivas tuercas).
+5. Unir la carroseria con los braquets mediante los tornillos y tuercas.
+
+
  ♥
