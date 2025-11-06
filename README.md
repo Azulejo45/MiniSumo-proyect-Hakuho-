@@ -18,13 +18,13 @@
 ♥
 ## •*¨*•.¸¸☆*･ﾟ Especificaciones generales ﾟ･*☆¸¸.•*¨*•
 
-˚₊· ͟͟͞͞➳❥ Diametro: 10 cm x 10 cm x 4,5 cm.
+˚₊· ͟͟͞͞➳❥ Dimensiones del robot: 10 cm x 10 cm x 4,5 cm.
 
 ˚₊· ͟͟͞͞➳❥ Consumo total: 7,4V.
 
 ˚₊· ͟͟͞͞➳❥ Corriente total: 800mA.
 
-˚₊· ͟͟͞͞➳❥ Material: PLA.
+˚₊· ͟͟͞͞➳❥ Material de la carrocería: PLA.
 
 ˚₊· ͟͟͞͞➳❥ Peso (aproximado): 250g.
 ## ✭∞∞∞∞∞∞∞∞✭∞∞•,¸,.·' ✩ '·.,¸,•∞∞✭∞∞∞∞∞∞∞∞✭
@@ -34,7 +34,8 @@
 ## Objetivo del proyecto
 ### ✩°｡𓂃𓏧︶︶︶︶︶︶︶︶┈୨•♡•୧┈︶︶︶︶︶︶︶𓂃𓏧｡°✩
 _El objetivo principal de este proyecto es poner a prueba lo aprendido en el transcurso del ciclo educativo y poder aplicarlo en el ensamblaje y preparacion de un robot modelo Mini-Sumo para que se encuentre en condiciones en poder participar en una competencia.
-El Mini-sumo está implementado con sendores los cuales lo ayudaran en la deteccion de obstaculos y/o de un Mini-sumo enemigo, utilizando su rampa para contraatacar hasta expulsarlo de la zona de combate._
+El Mini-sumo está implementado con sensores los cuales lo ayudarán en la detección de obstaculos y/o de un mini-sumo enemigo, utilizando su rampa para contraatacar hasta expulsarlo de la zona de combate._
+_Además de lo anteriormente mencionado, el robot consta con un modo "remote control" (RC), esto está implementado con el sistema de bluetooth y wi-fi integrado en el ESP32._
 ### ✩°｡𓂃𓏧⌒⌒⌒⌒⌒⌒⌒⌒┈୨•♡•୧┈⌒⌒⌒⌒⌒⌒⌒⌒𓂃𓏧｡°✩
 
 ♥
