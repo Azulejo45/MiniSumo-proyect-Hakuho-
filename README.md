@@ -182,4 +182,7 @@ En este ultimo, busque el siguiente modelo: ESP32_S3_SUPER_MINI, y seleccionelo.
 Ahora, verifique el codigo por el primero boton de la parte superior. Si marca algun error, copie el codigo entero de nuevo y vuelva a pegarlo./
 Una vez verificada la funcionalidad del codigo, utilice el segundo boton presente para poder subir el codigo al integrado de la placa. Si hay alguno otro error durante este proceso, consulte internet.
 
-
+#### -[Librerias
+Para poner librerias, dirigase al lateral izquierdo de la interfaz de Arduino IDE, y seleccione el tercer boton(Que contiene un simbolo con libros).
+En el buscador de esta nueva pagina, encuentre las siguientes librerias:
+-AdaFruit_NeoPixel.h
