@@ -137,7 +137,6 @@ Cuando uno de los sensores en los costados detecta algo cerca, se posiciona para
 3. Imprimir ambos archivos.
 4. Comprar cuatro tornillos para tuerca M3, 6 tuercas M3 y 2 prisioneros M3.
 5. Unir la carroseria con los braquets mediante 4 tornillos M3 y 4 tuercas M3.
-6. 
 
 
- ♥
+###-|
