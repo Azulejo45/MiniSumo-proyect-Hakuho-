@@ -35,7 +35,7 @@
 ### ✩°｡𓂃𓏧︶︶︶︶︶︶︶︶┈୨•♡•୧┈︶︶︶︶︶︶︶𓂃𓏧｡°✩
 _El objetivo principal de este proyecto es poner a prueba lo aprendido en el transcurso del ciclo educativo y poder aplicarlo en el ensamblaje y preparacion de un robot modelo Mini-Sumo para que se encuentre en condiciones en poder participar en una competencia.
 El Mini-sumo está implementado con sensores los cuales lo ayudarán en la detección de obstaculos y/o de un mini-sumo enemigo, utilizando su rampa para contraatacar hasta expulsarlo de la zona de combate._
-_Además de lo anteriormente mencionado, el robot consta con un modo "remote control" (RC), esto está implementado con el sistema de bluetooth y wi-fi integrado en el ESP32._
+_Además, el robot consta con un modo "remote control" (RC), esto está implementado con el sistema de bluetooth y wi-fi integrado en el ESP32._
 ### ✩°｡𓂃𓏧⌒⌒⌒⌒⌒⌒⌒⌒┈୨•♡•୧┈⌒⌒⌒⌒⌒⌒⌒⌒𓂃𓏧｡°✩
 
 ♥
@@ -44,12 +44,12 @@ _Además de lo anteriormente mencionado, el robot consta con un modo "remote con
 
 - Micro: Esp32 S3 super mini.
  > Memoria: 512 KB SRAM, 4 MB Flash.Conectividad: Wi-Fi 802.11 b/g/n (2,4 GHz).\
- > Bluetooth 5.0 LE.\
+ > Bluetooth 5.0 LE (Low Energy).\
  > Alimentación: Funciona a 3,3 V con entrada USB-C de 5 V.
 
 - Bateria de Lipo.
  > Almacenamiento: 7,4V.\
- > 2 celdas (3,7 por celda)
+ > 2 celdas (3,7V por celda)
   
 - Sensor de piso: TCRT5000.
  > Voltaje de operación: 3.3V-5V.\
@@ -58,13 +58,13 @@ _Además de lo anteriormente mencionado, el robot consta con un modo "remote con
 
 - Sensor detector de obstáculos: AD-32.
  > Voltaje de operacion: 3V-5.5V.\
- > Conexión Pin para abordar: 4 pines.\
+ > Cantidad de pines: 4.\
  > Distancia de deteccion: 5 a 20mm.
  
 - Motores: Micro motores Pololu 250RPM.
  > Dimensiones: 26x10x12mm.\
  > Voltaje de operacion: 6V.\
- > Torque maximo: 333mNm.
+ > Torque maximo: 333Nm (Newton - metro).
 
 - Puente H: DRV8833.
  > Dimensiones: 4 mm × 18,1 mm × 21,1 mm.\
@@ -112,8 +112,13 @@ Cuando uno de los sensores en los costados detecta algo cerca, se posiciona para
  ###-|preparación de la placa:
 
 1. Descargar el archivo de PCB de "HakuhoNII.kicad_pcb" (YO NO LO DESCARGO PORQUE YA LO TENGO XDDDD).
-2. 
-
+2. Imprimir el PCB en una hoja fotográfica (como lo son las hojas de revista) con tinta "tonel".
+3. Proceda a planchar el PCB a la placa del lado del cobre.
+4. Revisar que el diagrama del PCB se haya pegado correctamente retirando la hoja fotográfica y cualquier excendete de esta(Utilice agua para remover con facilidad el papel).
+5. Sumergir la placa en un recipiente con percloruro.
+6. Dejarlo descansar un tiempo(Resivar periodicamente el cobre de la placa)
+7. Cuando el cobre se haya disuelto y solo quede el diseño, retirarlo con CUIDADO(Es un liquido corrosivo;dificil de quitar de la ropa).
+8. Limiparlo la placa con agua para quitar el excedente de percloruro.
 
  ###-|Soldar los componentes en la placa ya hecha en el siguiente orden:
  
@@ -125,7 +130,7 @@ Cuando uno de los sensores en los costados detecta algo cerca, se posiciona para
 6. Borneras
 7. regulador\
 
-###-|Carroseria
+###-|Carroceria
 
 1. Descargar el modelo 3D de la carroseria.
 2. Descargar un modelo 3D de dos braquets y 2 ruedas con un radio de 20mm.
