@@ -108,23 +108,30 @@ Cuando uno de los sensores en los costados detecta algo cerca, se posiciona para
 # Pasos a seguir para armar el mini-sumo
 ## ˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚
 
- ###-|Soldar los componentes en la placa ya hecha en el siguiente orden:
+ ###-|preparación de la placa:
 
-1. Boton
-2. Swtich
+1. Descargar el archivo de PCB de "HakuhoNII.kicad_pcb" (YO NO LO DESCARGO PORQUE YA LO TENGO XDDDD).
+2. 
+
+
+ ###-|Soldar los componentes en la placa ya hecha en el siguiente orden:
+ 
+1. Puentes
+2. Boton
 3. Capacitores
-4. Regulador
+4. Switch
 5. Pineras
 6. Borneras
-7. Puentes\
+7. regulador\
 
 ###-|Carroseria
 
 1. Descargar el modelo 3D de la carroseria.
-2. Descargar un modelo 3D de dos braquets.
+2. Descargar un modelo 3D de dos braquets y 2 ruedas con un radio de 20mm.
 3. Imprimir ambos archivos.
-4. Comprar cuatro tornillos para tuerca M3 (con sus respectivas tuercas).
-5. Unir la carroseria con los braquets mediante los tornillos y tuercas.
+4. Comprar cuatro tornillos para tuerca M3, 6 tuercas M3 y 2 prisioneros M3.
+5. Unir la carroseria con los braquets mediante 4 tornillos M3 y 4 tuercas M3.
+6. 
 
 
  ♥
