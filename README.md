@@ -186,3 +186,6 @@ Una vez verificada la funcionalidad del codigo, utilice el segundo boton present
 Para poner librerias, dirigase al lateral izquierdo de la interfaz de Arduino IDE, y seleccione el tercer boton(Que contiene un simbolo con libros).
 En el buscador de esta nueva pagina, encuentre las siguientes librerias:
 -AdaFruit_NeoPixel.h
+
+#### -[Datasheets/Referencias
+-[AD-32](Recursos/Datasheet AD-32.jpg)
