@@ -96,7 +96,7 @@ _Además, el robot consta con un modo "remote control" (RC), esto está implemen
 ## Descripcion del funcionamiento
 
 El minisumo utiliza sus varios sensores para guiarse, con dos ubicados en los costados; otro en la parte frontal. Cuando un objeto entra en el rango del sensor frontal, el minisumo avanza hasta chocar contra dicho objeto. Esto siempre se cumple hasta que se quite la orden.\
-Cuando uno de los sensores en los costados detecta algo cerca, se posiciona para estar de frente ante lo detectado, retrocediendo y girando al lado contrario al donde se detecto 
+Cuando uno de los sensores en los costados detectan algo cerca, se posiciona para estar de frente al objeto, retrocediendo y girando en direccion paralela a este.
 
 ♥
 <img width="925" height="500" alt="Esquematico MiniSumo" src="https://github.com/user-attachments/assets/cb604efe-be96-4265-a081-07a26a25060c" />
@@ -109,7 +109,19 @@ Cuando uno de los sensores en los costados detecta algo cerca, se posiciona para
 # Pasos a seguir para armar el mini-sumo
 ## ˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚＊˚*•̩̩͙✩•̩̩͙*˚
 
- ###-|preparación de la placa:
+### Primero elistaremos las herramientas necesarias para llevar a cabo la placa.
+-Un recipiente\
+-Percloruro\
+-Una agujereadora\
+-Una placa de cobre\
+-Papel fotografico\
+-Tinta Tonel\
+-Una impresora(Para imprimir el diseño PCB)
+-Cable USB-C (Para cargar el codigo.)
+
+
+ 
+ ### -|preparación de la placa:
 
 1. Descargar el archivo de PCB de "HakuhoNII.kicad_pcb" (YO NO LO DESCARGO PORQUE YA LO TENGO XDDDD).
 2. Imprimir el PCB en una hoja fotográfica (como lo son las hojas de revista) con tinta "tonel".
@@ -120,7 +132,7 @@ Cuando uno de los sensores en los costados detecta algo cerca, se posiciona para
 7. Cuando el cobre se haya disuelto y solo quede el diseño, retirarlo con CUIDADO(Es un liquido corrosivo;dificil de quitar de la ropa).
 8. Limiparlo la placa con agua para quitar el excedente de percloruro.
 
- ###-|Soldar los componentes en la placa ya hecha en el siguiente orden:
+ ### -|Soldar los componentes en la placa ya hecha en el siguiente orden:
  
 1. Puentes
 2. Boton
@@ -128,15 +140,46 @@ Cuando uno de los sensores en los costados detecta algo cerca, se posiciona para
 4. Switch
 5. Pineras
 6. Borneras
-7. regulador\
+7. regulador
 
-###-|Carroceria
+ ### Medidas de seguridad.
 
-1. Descargar el modelo 3D de la carroseria.
+-El percloruro es un tanto corrosivo, capáz de manchar con facilidad la ropa y otra prendas.\
+-Cuando vaya a hacer agujeros en la placa, tiene que ser en una superficie solida. Es probable que la placa pueda salir dispara en una base dispareja o inquieta.\
+-Mientra planche, este atento a no quemar completamente el papel. Podria causar un incendio.
+
+### Tipo de soldadura/ensamble
+Todos los componentes deben fijados a la placa mendiante "soldadura de ola", el cual se utiliza para componentes de orificio pasante(THT). Los componentes debe ser introducidos desde el lado de la placa lisa y sin diseño,para ser soldados en el cobre que se encuentra del otro lado.
+En las pineras que estan direccionadas en horizontal, se debe colocar el ESP32(integrado).
+En la pineras que se encuentran en vertical, el DRV8833.
+
+### -|Carroceria
+
+1. Descargar el modelo 3D de la carroceria.
 2. Descargar un modelo 3D de dos braquets y 2 ruedas con un radio de 20mm.
 3. Imprimir ambos archivos.
 4. Comprar cuatro tornillos para tuerca M3, 6 tuercas M3 y 2 prisioneros M3.
 5. Unir la carroseria con los braquets mediante 4 tornillos M3 y 4 tuercas M3.
 
 
-###-|
+### -|Codigo
+
+El codigo establece las instrucciones que ejecutara el integrado para poder accionar y manejar al mini-sumo.\
+este es bastante simple y considera los 4 sensores teniendo en cuenta que:
+
+- No debe salir del tatami.
+- Debe atacar y empujar al otro mini-sumo fuera del area.
+- Esquivar al mini-sumo rival cuando se le de la orden.
+
+#### -|Compilacion/Carga
+
+Cuando la placa ya este monatada, se utilizara un cable USB tipo C para conectar el integrado(ESP32) a un ordenador. Mediante el programa [Arduino IDE](https://www.arduino.cc/en/software). Copie el codigo que se encuentra en este repositorio y pueguelo en el programa. En el apartado superior encontrara 4 botones.\
+El primero es para verificar si el programa tiene errores\
+El segundo es para subir el codigo al integrado\
+El tercero no es importante para esto.\
+El cuarto es para poder seleccionar la placa y el puerto\
+En este ultimo, busque el siguiente modelo: ESP32_S3_SUPER_MINI, y seleccionelo. En caso de no encontrarlo, use el "ESP32 S3 DEV MODULE". Junto a eso, seleccione el puerto USB por el cual esta conectado a su ordenador(Se cuenta de izquierda a derecha).\
+Ahora, verifique el codigo por el primero boton de la parte superior. Si marca algun error, copie el codigo entero de nuevo y vuelva a pegarlo./
+Una vez verificada la funcionalidad del codigo, utilice el segundo boton presente para poder subir el codigo al integrado de la placa. Si hay alguno otro error durante este proceso, consulte internet.
+
+
